@@ -210,5 +210,10 @@ body {
 }
 
 .fa {
-    margin: 5px 3px;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+
+.color-white {
+    background-color: white;
 }
